@@ -1,3 +1,4 @@
+
 # Mint 🌱
 
 [![SPM](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=for-the-badge)](https://swift.org/package-manager)
@@ -202,5 +203,6 @@ If this file is found in you repo, then all those directories will be copied int
 - mint install [artemnovichkov/Carting](https://github.com/artemnovichkov/Carting)
 - mint install [num42/icon-resizer-swift](https://github.com/num42/icon-resizer-swift)
 - mint install [MakeAWishFoundation/SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky)
+- mint install [thii/xcbeautify](https://github.com/thii/xcbeautify)
 
 Feel free to add your own!
